@@ -3,9 +3,19 @@ body {
     display: flex;
 }
 
+ul{
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
 .header{
     color: #e5e7eb;
     background-color: #1f2937;
+    font-size: 18px;
     display: flex;
     flex: 1;
 
